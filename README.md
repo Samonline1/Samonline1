@@ -23,14 +23,9 @@ I focus on clean code, performance, and great user experience.
 
 ```text
 📍 India
-✉️  samonline1business@gmail.com
+✉️  mrsampvt@gmail.com
 🔗 github.com/Samonline1
 ```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Repositories-20%2B-111827?style=for-the-badge&labelColor=111827&color=1F2937" />
-  <img src="https://img.shields.io/badge/Commits-1000%2B-111827?style=for-the-badge&labelColor=111827&color=1F2937" />
-</p>
 
   </td>
   </tr>
@@ -60,8 +55,12 @@ I focus on clean code, performance, and great user experience.
     <td width="33%" valign="top">
       <h3>🛒 Cartify</h3>
       <p>
-        Full-stack e-commerce platform with authentication, product browsing,
-        cart management, and secure checkout flow.
+        Full Stack E-Commerce Platform built using the MERN stack with product
+        browsing, search, filtering, and a server-side cart system.
+      </p>
+      <p>
+        • Implemented JWT authentication and REST APIs<br/>
+        • Designed MongoDB schemas and handled full frontend-backend integration
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-0EA5E9?style=flat-square&logo=react&logoColor=white" />
@@ -78,8 +77,11 @@ I focus on clean code, performance, and great user experience.
     <td width="33%" valign="top">
       <h3>🧠 Sympto API</h3>
       <p>
-        Health search API with API key authentication, usage tracking,
+        RESTful Health Search API with API key authentication, usage tracking,
         and monthly rate limiting for secure and scalable access.
+      </p>
+      <p>
+        • Built a middleware pipeline for validation and quota control
       </p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-2E7D32?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -89,24 +91,26 @@ I focus on clean code, performance, and great user experience.
         <img src="https://img.shields.io/badge/Rate%20Limit-E11D48?style=flat-square" />
       </p>
       <p>
-        <a href="https://github.com/Samonline1/sympto-api">View on GitHub</a>
+        <a href="https://symptoapi-b6w8.onrender.com">Live API</a> ·
+        <a href="https://github.com/Samonline1/sympto-api">GitHub</a>
       </p>
     </td>
     <td width="33%" valign="top">
       <h3>📅 Exam Timetable System</h3>
       <p>
-        Real-time exam tracking system with countdown timers,
-        dynamic status, and PDF generation for assignment front pages.
+        Real-time exam tracking system used by 200+ students with countdown
+        timers, status features, and a practical student workflow.
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-0EA5E9?style=flat-square&logo=react&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-2E7D32?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-2E7D32?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/PDFKit-C2185B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tailwind-0891B2?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Realtime-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/Students-200%2B-0891B2?style=flat-square" />
       </p>
       <p>
-        Built for 200+ students
+        <a href="https://jsu-time-table.netlify.app/">Live Demo</a> ·
+        <a href="https://github.com/Samonline1/TimeTable">GitHub</a>
       </p>
     </td>
   </tr>
@@ -123,20 +127,12 @@ I focus on clean code, performance, and great user experience.
 
 ---
 
-<h2>GitHub Stats</h2>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Samonline1&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
----
-
 <h2 id="contact">Contact</h2>
 
 - GitHub: <a href="https://github.com/Samonline1">github.com/Samonline1</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/sameer-hussain-6829222a6">sameer-hussain</a>
 - Portfolio: <a href="https://samonline1.github.io/Portfolio/">samonline1.github.io/Portfolio</a>
-- Email: <a href="mailto:samonline1business@gmail.com">samonline1business@gmail.com</a>
+- Email: <a href="mailto:mrsampvt@gmail.com">mrsampvt@gmail.com</a>
 
 ---
 
