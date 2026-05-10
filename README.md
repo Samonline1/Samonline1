@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Sam Hussain 👋</h1>
+<h1 align="left">Hi, I'm Sameer Hussain </h1>
 
 <table>
   <tr>
@@ -92,7 +92,7 @@ I focus on clean code, performance, and great user experience.
       </p>
       <p>
         <a href="https://symptoapi-b6w8.onrender.com">Live API</a> ·
-        <a href="https://github.com/Samonline1/sympto-api">GitHub</a>
+        <a href="https://github.com/Samonline1/SymptoAPI">GitHub</a>
       </p>
     </td>
     <td width="33%" valign="top">
