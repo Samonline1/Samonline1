@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Sam Online 👋</h1>
+<h1 align="left">Hi, I'm Sam Hussain 👋</h1>
 
 <table>
   <tr>
