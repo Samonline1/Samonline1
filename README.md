@@ -1,188 +1,129 @@
-<div align="center">
+# Hi,  I'm Sameer H.
 
-# Sameer Hussain
+### Full Stack Developer.
 
-### Full-Stack MERN Developer
+I like taking a problem, understanding what actually needs to be solved,
+and turning it into a simple, usable product.
 
-Building practical full-stack products, APIs, dashboards, authentication systems, and real-world web applications focused on performance, scalability, and user experience.
+-  Focused on **real-world problem solving**
+-  Work across **frontend, backend & APIs**
+-  Learn by **building, breaking and improving**
+-  Looking for opportunities where I can **contribute from Day 1**
+
+---
+
+##  Skills & Tech Stack
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+
 
 <br/>
 
-<a href="mailto:mrsampvt@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-MRSAMPVT%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+
+</p>
+
+---
+
+##  GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Samonline1&theme=github-dark-blue&hide_border=true"
+    width="70%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samonline1&theme=github_dark"
+    width="95%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samonline1&theme=github_dark"
+    width="47%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samonline1&theme=github_dark"
+    width="47%"
+  />
+</p>
+
+---
+
+##  Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Samonline1&theme=github-dark&hide_border=true"
+    width="95%"
+  />
+</p>
+
+---
+
+##  Profile Views
+
+<p align="center">
+
+<img
+  src="https://komarev.com/ghpvc/?username=Samonline1&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+  alt="Profile Views"
+/>
+
+</p>
+
+---
+
+##  Let's Build Something Useful
+
+**Real problems → Simple solutions → Better products**
+
+<p align="center">
+
+<a href="https://github.com/Samonline1">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sameer-hussain-6829222a6">
-  <img src="https://img.shields.io/badge/LINKEDIN-SAMEER%20HUSSAIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Samonline1">
-  <img src="https://img.shields.io/badge/GITHUB-SAMONLINE1-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://samonline1.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,tailwind,git,github,postman,vscode" />
-
-</div>
-
----
-
-# About
-
-I am a B.Tech CSE student focused on full-stack product engineering using the MERN stack.
-
-I enjoy building practical software that solves real problems — e-commerce systems, APIs, dashboards, authentication flows, student tools, admin panels, and scalable backend systems.
-
-My projects combine responsive frontend experiences, backend architecture, database design, authentication, deployment workflows, and production-focused development practices.
-
-I particularly enjoy:
-- Designing backend APIs and authentication systems
-- Building scalable MERN applications
-- Working on real-world user workflows
-- Improving performance and clean architecture
-- Turning ideas into usable products
-
-Currently exploring:
-- Advanced backend architecture
-- AI integration in web applications
-- System design fundamentals
-- Production-ready full-stack engineering
-
-Open to:
-- Software Engineering Internships
-- Frontend / Full-Stack Roles
-- Freelance Development
-- Open Source Collaboration
-
----
-
-# Featured Projects
-
-<table>
-<tr>
-<th>Project</th>
-<th>Why it matters</th>
-<th>Stack</th>
-<th>Links</th>
-</tr>
-
-<tr>
-<td><b>Cartify</b></td>
-<td>
-Full-stack e-commerce platform with authentication, product filtering, cart workflows, and backend API integration. Focused on scalable MERN architecture and practical shopping experience.
-</td>
-<td>
-React, Node.js, Express, MongoDB, JWT
-</td>
-<td>
-<a href="https://github.com/Samonline1/Cartify">Repo</a> /
-<a href="https://caartify.netlify.app/">Live</a>
-</td>
-</tr>
-
-<tr>
-<td><b>Exam Timetable System</b></td>
-<td>
-Real-time exam workflow platform used by 200+ students with countdown tracking, exam status management, and responsive dashboard workflows for students.
-</td>
-<td>
-React, Node.js, MongoDB, Realtime Features
-</td>
-<td>
-<a href="https://github.com/Samonline1/TimeTable">Repo</a> /
-<a href="https://jsu-time-table.netlify.app/">Live</a>
-</td>
-</tr>
-
-<tr>
-<td><b>Cinescope</b></td>
-<td>
-Movie discovery platform with trending content, search workflows, responsive UI, watch experience improvements, and API-based dynamic data rendering.
-</td>
-<td>
-React, API Integration, Tailwind CSS
-</td>
-<td>
-<a href="https://github.com/Samonline1">Repo</a>
-<a href="https://cine-scoope.netlify.app/">Live</a>
-
-</td>
-</tr>
-
-<tr>
-<td><b>Sympto API</b></td>
-<td>
-RESTful health search API with API key authentication, middleware validation, request tracking, and monthly rate limiting designed for secure API access.
-</td>
-<td>
-Node.js, Express, MongoDB, API Auth
-</td>
-<td>
-<a href="https://github.com/Samonline1/SymptoAPI">Repo</a> /
-<a href="https://symptoapi-b6w8.onrender.com">Live</a>
-</td>
-</tr>
-
-</table>
-
----
-
-# What I Work With
-
-<table>
-<tr>
-<td><b>Frontend</b></td>
-<td>React.js, Next.js, Tailwind CSS, JavaScript, TypeScript</td>
-</tr>
-
-<tr>
-<td><b>Backend</b></td>
-<td>Node.js, Express.js, REST APIs, Authentication</td>
-</tr>
-
-<tr>
-<td><b>Database</b></td>
-<td>MongoDB, Schema Design, CRUD Systems</td>
-</tr>
-
-<tr>
-<td><b>Deployment</b></td>
-<td>Netlify, Render, Vercel, GitHub</td>
-</tr>
-
-<tr>
-<td><b>Tools</b></td>
-<td>Git, GitHub, Postman, VS Code</td>
-</tr>
-</table>
-
----
-
-# Current Focus
-
-- Building production-quality full-stack applications
-- Improving backend engineering skills
-- Learning advanced DSA and system design
-- Contributing to open source
-
----
-
-# Contact
-
-- Email: **mrsampvt@gmail.com**
-- GitHub: **github.com/Samonline1**
-- LinkedIn: **linkedin.com/in/sameer-hussain-6829222a6**
-- Portfolio: **samonline1.github.io/Portfolio**
-
----
-
-<div align="center">
-
-### Building practical products, improving every day, and focused on becoming a strong software engineer.
-
-</div>
+</p>
